@@ -1,0 +1,8 @@
+Doodle Jump but with harder difficulty:
+
+-Make a normal doodle jump level but can have an additional of hard mode
+where the player has to avoid objects.
+-So like fireballs or even other objects falling from the sky, having
+indicaters to determine where they will be falling.
+-Have different skins/outfits. 
+-Currency
